@@ -11,7 +11,7 @@ By performing these EDA steps, I gained a comprehensive understanding of the dat
 
 a) After performing after EDA, I dive into the 10 business questions provided to me.
 b) These questions provided a clear idea and picture about the dataset and the problems evolved.
-c) Solved all the business question by doing some advanced excel knowledge and prepared a interactive and dynamic dashboard for business purpose.
+c) Solved all the business question by doing some advanced excel knowledge like pivit table, power pivot, excel functions, etc which help in  preparing a interactive and dynamic dashboard for business purpose.
 d) Dashboard includes some of the bar charts, column charts, pie charts, key metrics, KPI's, filters/slicers, etc,
 e )By going through the dataset cleaning, modelling, visualization, dasboard has been prepared by me.
 
