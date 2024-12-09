@@ -9,9 +9,10 @@
 
 By performing these EDA steps, I gained a comprehensive understanding of the dataset and uncover actionable insights for further analysis.
 
-After performing after EDA, I dive into the 10 business questions provided to me.
-These questions provided a clear idea and picture about the dataset and the problems evolved.
-Solved all the business question by doing some advanced excel knowledge and prepared a interactive and dynamic dashboard for business purpose.
-Dashboard includes some of the bar charts, column charts, pie charts, key metrics, KPI's, filters/slicers, etc,
-By going through the dataset cleaning, modelling, visualization, dasboard ha s been prepared by me.
+a) After performing after EDA, I dive into the 10 business questions provided to me.
+b) These questions provided a clear idea and picture about the dataset and the problems evolved.
+c) Solved all the business question by doing some advanced excel knowledge and prepared a interactive and dynamic dashboard for business purpose.
+d) Dashboard includes some of the bar charts, column charts, pie charts, key metrics, KPI's, filters/slicers, etc,
+e )By going through the dataset cleaning, modelling, visualization, dasboard has been prepared by me.
+
 Which will help the stakeholders to play with the insights based upon the various metrics included in dashboard and derive actionable insights for cost optimization and policy planning
