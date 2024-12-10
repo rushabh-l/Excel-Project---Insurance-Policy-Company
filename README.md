@@ -16,3 +16,12 @@ d) Dashboard includes some of the bar charts, column charts, pie charts, key met
 e )By going through the dataset cleaning, modelling, visualization, dasboard has been prepared by me.
 
 Which will help the stakeholders to play with the insights based upon the various metrics included in dashboard and derive actionable insights for cost optimization and policy planning
+
+Overall Strategic Recommendations :
+Preventive Care Programs: Focus on reducing risk factors (e.g., smoking, high BMI) through education and incentives.
+Regional Strategies: Customize healthcare and cost-management strategies based on regional trends.
+Family-Centric Plans: Enhance plans targeting beneficiaries with dependents to optimize utilization and reduce costs.
+Chronic Disease Management: Implement targeted programs for high-cost outliers to mitigate long-term expenses.
+Data-Driven Decision Making: Use dashboards to identify emerging trends and respond proactively to healthcare challenges.
+
+By implementing these insights and recommendations, health insurers can optimize medical costs, improve beneficiary outcomes, and enhance overall customer satisfaction.
